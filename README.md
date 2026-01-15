@@ -8,7 +8,7 @@ SENTIO-AI  is an AI-powered IoT system that detects human emotions in real time 
 This project is supported by a detailed research paper published in an IEEE journal covering system design, 
 psychological mapping, hardware-software integration, and experimental evaluation.
 
-🔗 **Paper:** [IoT-Based Mood Sensing Ambience Creator](.[/research/IoT_Mood_Sensing_Ambience_Creator.pdf](https://www.researchgate.net/publication/397083994_IoT_-_based_Mood_Sensing_Ambience_Creator))
+🔗 **Paper:** [IoT-Based Mood Sensing Ambience Creator](https://www.researchgate.net/publication/397083994_IoT_-_based_Mood_Sensing_Ambience_Creator)
 
 ---
 
