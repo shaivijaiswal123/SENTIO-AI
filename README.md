@@ -3,6 +3,9 @@
 SENTIO-AI  is an AI-powered IoT system that detects human emotions in real time using CNN-based facial analysis and dynamically adapts lighting and sound ambience. It creates a closed-loop, emotion-aware environment using affordable hardware and psychology-backed mood regulation.
 
 ---
+🚧 This repository is under active development. 
+Code and hardware modules are being incrementally added.
+---
 
 ## 🚀 Overview
 Human emotions significantly influence mental well-being, productivity, and daily experiences. However, most smart ambience and home automation systems remain static, manual, and emotionally unaware.
