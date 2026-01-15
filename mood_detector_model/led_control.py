@@ -27,3 +27,4 @@ def turn_off():
 
 def cleanup():
     GPIO.cleanup()
+
