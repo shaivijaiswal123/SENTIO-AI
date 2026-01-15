@@ -122,7 +122,7 @@ The system consists of:
 ---
 
 ## 📄 Research Paper
-This project is supported by a detailed research paper covering system design, 
+This project is supported by a detailed research paper published in an IEEE journal covering system design, 
 psychological mapping, hardware-software integration, and experimental evaluation.
 
 🔗 **Paper:** [IoT-Based Mood Sensing Ambience Creator](.[/research/IoT_Mood_Sensing_Ambience_Creator.pdf](https://www.researchgate.net/publication/397083994_IoT_-_based_Mood_Sensing_Ambience_Creator))
