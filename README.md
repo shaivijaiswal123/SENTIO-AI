@@ -4,18 +4,19 @@ SENTIO-AI  is an AI-powered IoT system that detects human emotions in real time 
 
 ---
 
-## 🚀 Overview
-Human emotions significantly influence mental well-being, productivity, and daily experiences. However, most smart ambience and home automation systems remain static, manual, and emotionally unaware.
-
-**AURA-SYNC** bridges this gap by creating a **closed-loop emotion-aware environment**. It uses real-time facial emotion recognition powered by a CNN model and automatically adjusts ambient lighting and sound using IoT hardware. The system is designed to be **affordable, scalable, and student-friendly**, making emotional intelligence accessible in smart environments.
-
----
-
 ## 📄 Research Paper
 This project is supported by a detailed research paper published in an IEEE journal covering system design, 
 psychological mapping, hardware-software integration, and experimental evaluation.
 
 🔗 **Paper:** [IoT-Based Mood Sensing Ambience Creator](.[/research/IoT_Mood_Sensing_Ambience_Creator.pdf](https://www.researchgate.net/publication/397083994_IoT_-_based_Mood_Sensing_Ambience_Creator))
+
+---
+
+
+## 🚀 Overview
+Human emotions significantly influence mental well-being, productivity, and daily experiences. However, most smart ambience and home automation systems remain static, manual, and emotionally unaware.
+
+**AURA-SYNC** bridges this gap by creating a **closed-loop emotion-aware environment**. It uses real-time facial emotion recognition powered by a CNN model and automatically adjusts ambient lighting and sound using IoT hardware. The system is designed to be **affordable, scalable, and student-friendly**, making emotional intelligence accessible in smart environments.
 
 ---
 
